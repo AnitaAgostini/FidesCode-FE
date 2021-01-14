@@ -1,0 +1,179 @@
+{
+	"knownSymbols": {
+		"getTestBed": [
+			{
+				"name": "getTestBed",
+				"module": "@angular/core/testing",
+				"isDefault": false
+			}
+		],
+		"enableProdMode": [
+			{
+				"name": "enableProdMode",
+				"module": "@angular/core",
+				"isDefault": false
+			}
+		],
+		"platformBrowserDynamic": [
+			{
+				"name": "platformBrowserDynamic",
+				"module": "@angular/platform-browser-dynamic",
+				"isDefault": false
+			}
+		],
+		"environment": [
+			{
+				"name": "environment",
+				"path": "c:\\Users\\User\\Projects\\Fides-Code-FE\\Fides-Code-FE\\FrontEnd\\src\\environments\\environment.prod.ts",
+				"type": "const",
+				"isDefault": false
+			}
+		],
+		"RegisterComponent": [
+			{
+				"name": "RegisterComponent",
+				"path": "c:\\Users\\User\\Projects\\Fides-Code-FE\\Fides-Code-FE\\FrontEnd\\src\\app\\register\\register.component.ts",
+				"type": "class",
+				"isDefault": false
+			}
+		],
+		"Component": [
+			{
+				"name": "Component",
+				"module": "@angular/core",
+				"isDefault": false
+			}
+		],
+		"OnInit": [
+			{
+				"name": "OnInit",
+				"module": "@angular/core",
+				"isDefault": false
+			}
+		],
+		"Router": [
+			{
+				"name": "Router",
+				"module": "@angular/router",
+				"isDefault": false
+			}
+		],
+		"ComponentFixture": [
+			{
+				"name": "ComponentFixture",
+				"module": "@angular/core/testing",
+				"isDefault": false
+			}
+		],
+		"TestBed": [
+			{
+				"name": "TestBed",
+				"module": "@angular/core/testing",
+				"isDefault": false
+			}
+		],
+		"LoginComponent": [
+			{
+				"name": "LoginComponent",
+				"path": "c:\\Users\\User\\Projects\\Fides-Code-FE\\Fides-Code-FE\\FrontEnd\\src\\app\\login\\login.component.ts",
+				"type": "class",
+				"isDefault": false
+			}
+		],
+		"AppModule": [
+			{
+				"name": "AppModule",
+				"path": "c:\\Users\\User\\Projects\\Fides-Code-FE\\Fides-Code-FE\\FrontEnd\\src\\app\\app.module.ts",
+				"type": "class",
+				"isDefault": false
+			}
+		],
+		"BrowserModule": [
+			{
+				"name": "BrowserModule",
+				"module": "@angular/platform-browser",
+				"isDefault": false
+			}
+		],
+		"NgModule": [
+			{
+				"name": "NgModule",
+				"module": "@angular/core",
+				"isDefault": false
+			}
+		],
+		"RouterTestingModule": [
+			{
+				"name": "RouterTestingModule",
+				"module": "@angular/router/testing",
+				"isDefault": false
+			}
+		],
+		"AppRoutingModule": [
+			{
+				"name": "AppRoutingModule",
+				"path": "c:\\Users\\User\\Projects\\Fides-Code-FE\\Fides-Code-FE\\FrontEnd\\src\\app\\app-routing.module.ts",
+				"type": "class",
+				"isDefault": false
+			}
+		],
+		"Routes": [
+			{
+				"name": "Routes",
+				"module": "@angular/router",
+				"isDefault": false
+			}
+		],
+		"RouterModule": [
+			{
+				"name": "RouterModule",
+				"module": "@angular/router",
+				"isDefault": false
+			}
+		],
+		"AppPage": [
+			{
+				"name": "AppPage",
+				"path": "c:\\Users\\User\\Projects\\Fides-Code-FE\\Fides-Code-FE\\FrontEnd\\e2e\\src\\app.po.ts",
+				"type": "class",
+				"isDefault": false
+			}
+		],
+		"browser": [
+			{
+				"name": "browser",
+				"module": "protractor",
+				"isDefault": false
+			}
+		],
+		"by": [
+			{
+				"name": "by",
+				"module": "protractor",
+				"isDefault": false
+			}
+		],
+		"element": [
+			{
+				"name": "element",
+				"module": "protractor",
+				"isDefault": false
+			}
+		],
+		"logging": [
+			{
+				"name": "logging",
+				"module": "protractor",
+				"isDefault": false
+			}
+		],
+		"AppComponent": [
+			{
+				"name": "AppComponent",
+				"path": "c:\\Users\\User\\Projects\\Fides-Code-FE\\Fides-Code-FE\\FrontEnd\\src\\app\\app.component.ts",
+				"type": "class",
+				"isDefault": false
+			}
+		]
+	}
+}
